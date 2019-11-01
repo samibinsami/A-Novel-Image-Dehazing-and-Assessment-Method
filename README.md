@@ -3,7 +3,7 @@ This is the implementation of a novel image dehazing and assessment method propo
 
 Images supplied in this repository are only allowed to use for academic or research purpose and not for commercial purpose.
 
-The images givin in the 'Metrics Images' folder are results of 
+The images given in the 'Metrics Images' folder are results of 
 1. dc = Dark Channel Prior 
 2. cl = Dehazing using Color-lines
 3. hl = Non-Local Dehazing
